@@ -1,7 +1,7 @@
-## Repositório do Prejeto final de disciplina introdução aos estudos em Data Scence - UFRN ##
+# Repositório do Prejeto final de disciplina introdução aos estudos em Data Scence - UFRN ##
 
-Fundamentos e Técnicas em Ciências de Dados
-Motivação:
+## Fundamentos e Técnicas em Ciências de Dados
+### Motivação:
 OBS.: Estudo realizado para fins didáticos, projeto de conclusão da disciplina "Fundamentos e Técnicas em Ciências de Dados - UFRN/EAJ"
 
 Os sistemas de notificação de óbitos também passaram a ser sobrecarregados, principalmente para registrar os óbitos por Síndrome Respiratória Aguda Grave (SRAG), que é reconhecida como a principal síndrome clínica relacionada à covid-19.
