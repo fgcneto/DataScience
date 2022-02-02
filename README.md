@@ -1,4 +1,4 @@
-# Repositório do Prejeto final da Disciplina Introdução aos Estudos em Data Scence - UFRN ##
+# Repositório do Prejeto final da Disciplina Introdução aos Estudos em Data Science - UFRN ##
 
 ## Fundamentos e Técnicas em Ciências de Dados
 ### Motivação:
